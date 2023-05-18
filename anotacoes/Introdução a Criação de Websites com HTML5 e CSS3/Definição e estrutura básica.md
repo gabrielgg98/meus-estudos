@@ -53,3 +53,12 @@
 
 
 
+## Listas:
+
+- ul, ol e li são as tags usadas para agrupar coleção de itens
+- 'ul' = uma lista em que a ordem não é importante
+- 'ol' = a ordem é importante e geralmente tem uma numeração
+- 'li' = um item da lista
+
+
+
