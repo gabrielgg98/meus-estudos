@@ -4,7 +4,7 @@
 
 ## História:
 
-- Criado por Tim Berners-lee
+- Criado por Tim Berners-lee, motivado para compartilhar textos e documentos
 - HTML 1 - 1991
 - HTML 2- 1995
 - HTML 3 - 1997
@@ -30,5 +30,15 @@
 
 - Surgiu por volta da versão 5, trazendo novos elementos para aumentar o nível de organização dos htmls, facilitando a leitura dos elementos por parte dos programadores.
   - Alguns exemplos são: section, header, article, aside, footer e os h1 (que não surgiram nessa versão, mas servem muito bem para o propósito de trazer sentido, pois representam a importância dos titulos dentro das páginas; use apenas um h1 por página)
-  - 
+
+
+
+## Textos & Links:
+
+- H1 a H6 títulos e suas importâncias
+- A tag 'p', representa um parágrafo, que suporta textos, vídeos e outros tipos de conteúdo
+- O elemento 'a' representa uma âncora:
+  - Com 'Href' direciona a um hyperlink, que pode ser um site, um email ou um telefone
+    - No caso do email/telefone usar 'mailto:'
+  - A tag 'target' serve para direcionar a abertura do link, sendo '_blank' = uma nova aba
 
