@@ -42,3 +42,14 @@
     - No caso do email/telefone usar 'mailto:'
   - A tag 'target' serve para direcionar a abertura do link, sendo '_blank' = uma nova aba
 
+
+
+## Imagens:
+
+- Representadas pelo elemento 'img', não necessita de fechamento
+  - Contém 'src' e 'alt'
+    - 'src' indica o local de origem da img, seja local ou remoto
+      - 'alt' representa o texto alternativo que será carregado, caso a imagem dê erro
+
+
+
