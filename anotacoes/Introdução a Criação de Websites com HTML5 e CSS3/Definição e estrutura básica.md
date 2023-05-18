@@ -81,5 +81,14 @@
 
 
 
+## Conceitos básicos:
+
+- Com o CSS conseguimos alterar a aparência da box model
+  - Box model = margin, border, padding, content
+    - margin = espaçamento entre elementos
+      - border = circundando o padding e o conteúdo, pode ser alterado largura e cor
+        - padding = espaçamento entre border e conteúdo
+          - conteúdo = é o que o bloco representa (txt, img, video)
+
 
 
