@@ -2,6 +2,8 @@
 
 
 
+# HTML5 
+
 ## História:
 
 - Criado por Tim Berners-lee, motivado para compartilhar textos e documentos
@@ -59,6 +61,25 @@
 - 'ul' = uma lista em que a ordem não é importante
 - 'ol' = a ordem é importante e geralmente tem uma numeração
 - 'li' = um item da lista
+
+
+
+# CSS3
+
+## Definição:
+
+- Criado em 1996 é usado para criar regras de estilos para elementos ou grupos de elementos
+- É formada por um seletor ou um grupo de seletor
+  - seletores = elementos html
+- Entre { } temos as declarações
+  - As declarações são formadas por propriedade e  valor
+- Elementos HTML do mesmo tipo podem ser divididos em ID e Classe para ter regras diferentes
+  - Seletores de tipo = representam um elemento HTML
+    - ID e Classes podem representar QUALQUER elemento
+      - Uma classe é precedida por um '.'
+        - Uma id é precedida por um '#' e só pode ser usada uma vez na página
+
+
 
 
 
