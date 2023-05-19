@@ -1,0 +1,11 @@
+/* Não ensina no curso, mas eu já tinha essa visao ;D */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
