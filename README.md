@@ -13,5 +13,5 @@
 
 
 
-#### Atualmente estou concluíndo o <a href="https://web.dio.me/track/c8ced570-2c60-4be7-b421-c6f511b32bc4?tab=about" target="_blank">*Bootcamp Eduzz Fullstack Developer*', da DIO.</a>
+#### Atualmente estou concluíndo o <a href="https://web.dio.me/track/c8ced570-2c60-4be7-b421-c6f511b32bc4?tab=about" target="blank">*Bootcamp Eduzz Fullstack Developer*', da DIO.</a>
 
