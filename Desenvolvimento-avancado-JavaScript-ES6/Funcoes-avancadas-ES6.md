@@ -63,7 +63,15 @@ Com o ECMA6 você pode omitir o lado direito, sem repetir a palavra. Short Range
 
 ## Rest e Spread Operator
 
+**REST =**
 Antigamente era usado a variável "arguments", que representava uma variável reservada que representa todos os argumentos da função.
+
+É escrito com '...', diminuindo a quantidade de código escrito na hora de declarar argumentos ilimitados.
+Porém ao invés de tornar-se um object ele tornar-se um array.
+
+**SPREAD =**
+Escrito da mesma forma que o rest operator. Porém enquanto o rest pega todos os argumentos de uma função e os transforma em um array, o spread operator pega todos os itens de um array e os transforma em parâmetros.
+Não se limita só a listas, podendo ser usado em : strings, arrays, objetcs e objetos iteraveis
 
 
 
